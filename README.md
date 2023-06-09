@@ -5,7 +5,7 @@ Undergraduate Honors Thesis. Not all documents used are able to be uploaded due 
 part of a larger project in the IDEAS Group at the UO High Performance Computing Lab (HPCL) and 
 I do not have ownership of all resources used. 
 
-Thesis document and _avl.ipynb_ contain the main documentation and code used to complete this 
+Thesis document and _avl.ipynb_ contains the main documentation and code used to complete this 
 project. Other notebooks used to test different algorithms and methods are in the sub folder.
 
 To run simply download or open _avl.ipynb_ and press run all. There is a passcode required to 
